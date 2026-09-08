@@ -1,0 +1,6 @@
+{
+  "name": "Bank of India Aadhar Loan Guide",
+  "description": "Bank of India Aadhar Loan (बैंक ऑफ इंडिया आधार लोन) पर सम्पूर्ण गाइड - ब्याज दरें, पात्रता, जरूरी दस्तावेज, ईएमआई कैलकुलेटर और ऑनलाइन आवेदन स्टेप-बाय-स्टेप।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
